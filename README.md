@@ -8,3 +8,5 @@ Using `U8g2lib` to display the image
 
 ## Tool Convert image to bitmap type
 Image2Cpp:  https://javl.github.io/image2cpp/
+
+## Simulation by WokWi Simulator Extension
