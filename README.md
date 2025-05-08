@@ -6,6 +6,5 @@ Using `VScode` and `PlatformIO` Extention
 ## Libraries
 Using `U8g2lib` to display the image 
 
-## Tool
+## Tool Convert image to bitmap type
 Image2Cpp:  https://javl.github.io/image2cpp/
-
